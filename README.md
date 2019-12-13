@@ -5,6 +5,7 @@
 * mkdir repos  
 
 ## how to clone !  
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### clone url. 
 * git clone https://github.com/kaulkartik/osheen_project_sample.git  
@@ -25,14 +26,16 @@
 ###### reviewing your chnages. 
 ###### This will give you list of all files in your project  since it is the   first time that you are uploading the project.  
 ###### After this you will be seeing only the files that have been chnaged from   last time once you run this command second time and so on.  
-* git status 
+* git status   
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ## add the chnages  
 ###### this adds all the chnages   
 ###### you may also add selected chnages but  -{option} for that is diffrent   
-* git add -A
+* git add -A   
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
@@ -99,12 +102,13 @@ git status
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### pull the lastest branch. 
 * git pull -f   
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### how to review your commits on to your brancch   
 ###### this gives you one commit message of last 10  commits in your branch. 
-* git log --oneline 10  
+* git log --oneline 10      
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ## Release Notes. 
