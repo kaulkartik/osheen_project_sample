@@ -22,7 +22,7 @@
 ###### reviewing your chnages. 
 ###### This will give you list of all files in your project  since it is the   first time that you are uploading the project.  
 ###### After this you will be seeing only the files that have been chnaged from   last time once you run this command second time and so on.  
-* git status
+* git status  
 
 ## add the chnages  
 ###### this adds all the chnages   
@@ -40,21 +40,21 @@
 ###### since you have uploaded all the chnages on to the server   
 * git status 
 
-######### Making new branches. 
-######### go to git hub. account that host your repo. 
-######### select the branch eg. master branch. 
-######### select the create new. branch fron here button. 
-######### make a developement branch. 
-######### its better to keep the running verion of the project on master branch. 
-######### All inprogress chnages should go on to the devlopment branch. 
-######### AFTER you are done go to your machine.  
+######### Making new branches  
+######### go to git hub account that host your repo   
+######### select the branch eg. master branch  
+######### select the create new. branch fron here button  
+######### make a developement branch   
+######### better to keep the running verion of the project on master branch  
+######### All inprogress chnages should go on to the devlopment branch   
+######### AFTER you are done go to your machine    
 * cd {work_dir}
 
 ######### fetch all the new created branches in the server   
 * git fetch -a
 
-######### checkout the fetched branch. 
-######### in your case the dev branch. 
+######### checkout the fetched branch     
+######### in your case the dev branch    
 * git checkout development 
 
 ###### check status   
