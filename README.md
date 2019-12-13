@@ -7,7 +7,8 @@
 ## how to clone !  
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### clone url. 
-* git clone https://github.com/kaulkartik/osheen_project_sample.git
+* git clone https://github.com/kaulkartik/osheen_project_sample.git  
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
@@ -41,6 +42,7 @@
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### pushing the commmits on to the git hub server. 
 * git push 
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
@@ -48,6 +50,7 @@
 ###### This should show a message that there is nothing else to commmit. 
 ###### since you have uploaded all the chnages on to the server   
 * git status 
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
@@ -59,18 +62,21 @@
 ###### better to keep the running verion of the project on master branch  
 ###### All inprogress chnages should go on to the devlopment branch   
 ###### AFTER you are done go to your machine    
-* cd {work_dir}
+* cd {work_dir}  
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### fetch all the new created branches in the server   
-* git fetch -a
+* git fetch -a  
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### checkout the fetched branch     
 ###### in your case the dev branch    
-* git checkout development 
+* git checkout development   
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
@@ -86,18 +92,19 @@ git status
 ###### if you want sonme one to take your code ask him to do this. 
 * git clone <clone url>
 
-* git checkout development 
+* git checkout development   
+
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### pull the lastest branch. 
-* git pull -f 
+* git pull -f   
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 ###### how to review your commits on to your brancch   
 ###### this gives you one commit message of last 10  commits in your branch. 
-* git log --oneline 10
+* git log --oneline 10  
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★  
 
 ## Release Notes. 
